@@ -1,6 +1,6 @@
 # GameMatch
 Description:
-A discord bot that matches games for you 
+A discord bot that matches games for you pease read this file in **raw**
 
 Features:
 Match: Matches users by @ and the bot tells you what you can play
