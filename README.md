@@ -1,6 +1,4 @@
 # GameMatch
-Discord bot that matches games you could play as a group leaving no one left out.
-
 Description:
 A discord bot that matches games for you 
 
