@@ -1,0 +1,17 @@
+{
+  "name": "gamejoiner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lopeasvomm",
+  "license": "none",
+  "dependencies": {
+    "@discordjs/builders": "^0.5.0",
+    "better-sqlite3": "^7.4.3",
+    "discord.js": "^13.1.0",
+    "xml2js": "^0.4.23"
+  }
+}
